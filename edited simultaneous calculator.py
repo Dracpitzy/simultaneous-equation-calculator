@@ -17,7 +17,7 @@ while True:
         break
         
     except ValueError:
-        print("Enter numbers only!")
+        print("Enter numbers only!!")
         
 print(" ")
 
