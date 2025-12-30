@@ -39,8 +39,8 @@ while True:
     if clean_continue_prompt == "yes":
         try:
             D = (first_variable * second_variable_B) - (second_variable * first_variable_B)
-            if D == 0:
-                print("No unique solution exists (lines are parallel).")
+            
+
     
 
             Dx = (equal_to * second_variable_B) -(second_variable * equal_to_B)
